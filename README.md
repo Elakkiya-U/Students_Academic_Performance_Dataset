@@ -12,4 +12,4 @@ Among the categorical variables, the gender distribution is almost balanced, wit
 
 Because of its rich mix of demographic and performance data, this dataset is excellent for data visualization, statistical analysis, and predictive modeling projects. It is often used to analyze how factors such as gender, parental education, or lunch type may correlate with academic outcomes.
 
-# Create a database in SQL
+# Create a database in MySQL
